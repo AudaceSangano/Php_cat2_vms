@@ -18,9 +18,9 @@ Credential for admin panel :
 Username: admin 
 
 Password: Test@123
-##N.B:
+## N.B:
 1. it's not complete even login doesn't contain any session
 2. no any link on dashboard work
 3. data displayed in dashboard came from database
 4. next version shall contain some additional function
-#Thanks!!
+# Thanks!!
