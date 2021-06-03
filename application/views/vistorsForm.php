@@ -111,8 +111,15 @@
 													<label for="password-input" class=" form-control-label">Department</label>
 												</div>
 												<div class="col-12 col-md-9">
-													<input type="text" id="department" name="department" placeholder="Department" class="form-control" required="">
-
+													<select class="form-control" name="department">
+														<option></option>
+														<option value="Administration">Administration</option>
+														<option value="IT">IT</option>
+														<option value="ET">ET</option>
+														<option value="RE">RE</option>
+														<option value="Incubation">Incubation</option>
+														<option value="Restaurant">Restaurant</option>
+													</select>
 												</div>
 											</div>
 											<div class="row form-group">
