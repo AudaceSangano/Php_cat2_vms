@@ -1,9 +1,9 @@
-## Visitors Management System (VMS)
-----------------------------------------
-# VMS is the web_based system for management of visitors.
-#scope: IPRC Tumba 
+Visitors Management System (VMS)
+--------------------------------
+VMS is the web_based system for management of visitors.
+scope: IPRC Tumba 
 
-##How to run the Visitors Management System (VMS) Project
+How to run the Visitors Management System (VMS) Project
 
 1. Download the  zip file
 
@@ -41,6 +41,7 @@ Use case:
 Users:
 ------
 Admin : is only users allowed to login
+
 Visitors: not allowed to login, provide information to
           admin.
 
