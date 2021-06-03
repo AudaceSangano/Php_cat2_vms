@@ -53,12 +53,19 @@ Visitors: not allowed to login, provide information to
 Features Hierarchy
 ---------------------
 Admin Control Structure
-View reports(current, last day, last 7 day, all days,search between date)
+
+View reports(current, last day, last 7 day, all days,search between date, visitor inside)
+
 Add visitors
+
 Check exits visitors
+
 View admin profile
+
 View visitors information
+
 Edit admin profile
+
 Login/Logout
 
 #Authors:-Audace SANGANO          (18RP06232)
