@@ -25,7 +25,7 @@ class Vms extends CI_Model
 	}
 	function in()
 	{
-		$query=$this->db->query("select ID from tblvisitor where Status='in'");
+		$query=$this->db->query("select ID from tblvisitor where Status='1'");
 		return $query->result();
 	}
 
