@@ -28,14 +28,19 @@ Password: 123
 TOOLS USED
 ==========
 Framework: Codeigniter (version 3)
+
 Front-end: HTML/CSS, Bootstrap
+
 back-end:Mysql,php,javascript
 
 Use case:
 ========
 -register visitors
+
 -manage admin profile
+
 -manage visitors
+
 -report
 
 Users:
