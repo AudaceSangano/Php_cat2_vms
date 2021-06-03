@@ -68,5 +68,13 @@ Edit admin profile
 
 Login/Logout
 
+Branches
+--------
+Main: Default branches for first submission (index pages,dashboard);
+
+sano20-patch-1: for session and sidebar link updates
+
+sano: search update
+
 #Authors:-Audace SANGANO          (18RP06232)
          -Emmanuel UWIRINGIYIMANA (18RP01426)
